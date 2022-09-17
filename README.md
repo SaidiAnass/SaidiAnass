@@ -2,11 +2,11 @@
 <h3 align="center">Software Developer & Data Analytics Student at ENSIAS, Morocco</h3>
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://github.com/SaidiAnass/SaidiAnass/blob/main/code.gif">
 </p>
 
-<p align="center" width="50" height="60">
-  <a href="https://www.instagram.com/anassaidi1/" target="_blank">
+<p align="center">
+  <a href="https://twitter.com/AnassSaidi18" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/anass-saidi-85a806198/" target="_blank">
