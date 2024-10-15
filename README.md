@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anass Saidi</h1>
-<h3 align="center">Software Developer & Data Analytics Student at ENSIAS, Morocco</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/SaidiAnass/SaidiAnass/blob/main/code.gif">
